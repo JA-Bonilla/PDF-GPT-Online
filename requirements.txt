@@ -1,0 +1,11 @@
+langchain==0.0.178
+pdfminer.six==20221105
+python-dotenv==1.0.0
+pandoc==2.3
+pypandoc==1.11
+tqdm==4.65.0
+huggingface-hub==0.14.1
+tkdesigner==1.0.7
+tk==0.1.0
+torch==2.0.1
+pyPDF==3.9.0
